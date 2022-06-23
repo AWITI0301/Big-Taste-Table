@@ -50,7 +50,7 @@
     width: 55px;
     height: 55px;
     font-size: 1.8rem;
-    background: pink;
+    background: #071e26;
     /* color: #fff; */
     border: none;
     border-top-right-radius: 2rem;
@@ -60,6 +60,7 @@
     -moz-transition: all 0.4s linear;
     -ms-transition: all 0.4s linear;
     -o-transition: all 0.4s linear;
+
 
 }
 
@@ -95,8 +96,8 @@
 }
 .recipe-btn{
     text-decoration: none;
-    color: #fff;
-    background: var(--tenne-tawny);
+    color: white;
+    background: #071e26;
     font-weight: 500;
     font-size: 1.1rem;
     padding: 0.75rem 0;
@@ -129,15 +130,15 @@
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
-    color: #fff;
-    background: var(--tenne-tawny);
+    color: white;
+    background:#071e26;
     border-radius: 1rem;
     -webkit-border-radius: 1rem;
     -moz-border-radius: 1rem;
     -ms-border-radius: 1rem;
     -o-border-radius: 1rem;
-    width: 90%;
-    height: 90%;
+    width: 60%;
+    height: 60%;
     overflow-y: scroll;
     display: none;
     padding: 2rem 0;
@@ -146,7 +147,7 @@
     width: 10px;
 }
 .meal-details::-webkit-scrollbar-thumb{
-    background: #f0f0f0;
+    background: #071e26;
     border-radius: 2rem;
     -webkit-border-radius: 2rem;
     -moz-border-radius: 2rem;
@@ -171,7 +172,7 @@
     right: 2rem;
     top: 2rem;
     font-size: 1.8rem;
-    background: #fff;
+    background: #071e26;
     border: none;
     width: 35px;
     height: 35px;
@@ -192,7 +193,7 @@
 
 
 .recipe-category{
-    background: #fff;
+    background: lightsalmon;
     font-weight: 600;
     color: var(--tenne-tawny);
     display: inline-block;
@@ -204,9 +205,9 @@
     -o-border-radius: 0.3rem;
 }
 .recipe-category{
-    background: #fff;
+    background:lightcoral;
     font-weight: 600;
-    color: var(--tenne-tawny);
+    color:black;
     display: inline-block;
     padding: 0.2rem 0.5rem;
     border-radius: 0.3rem;
@@ -233,7 +234,7 @@
     margin: 1.4rem 0;
 }
 .recipe-link a{
-    color: #fff;
+    color: red;
     font-size: 1.2rem;
     font-weight: 700;
     transition: all 0.4s linear;
@@ -250,7 +251,7 @@
 /*  */
 .notFound{
     grid-template-columns: 1fr!important;
-    color: var(--tenne-tawny);
+    color:red;
     font-size: 1.8rem;
     font-weight: 600;
     width: 100%;
