@@ -11,6 +11,14 @@ fetch('https://yummly2.p.rapidapi.com/feeds/auto-complete?q=chicken%20soup', opt
 	.then(response => console.log(response))
 	.catch(err => console.error(err));
 
+	const searchBtn = document.getElementById('search-btn');
+	const mealList = document.getElementById('meal');
+	const mealDetailsContent = document.querySelector('.meal-details-content');
+	const recipeCloseBtn = document.getElementById('recipe-close-btn');
+
+
+
+
 
 //     function fetchFood(){
 //         fetch('https://yummly2.p.rapidapi.com/feeds/auto-complete?q=chicken%20soup')
