@@ -6,7 +6,7 @@
 ![Front page of the website](./images/project%20pic.png)
 
 # Table of Contents
-1. [Introduction](#Iintroduction)
+1. [Introduction](#Iintroduction j)
 2. [Description](#Description)
 3. [BDD](#Behavior Driven Development)
 4. [features](#Featuress)
