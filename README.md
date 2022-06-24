@@ -6,16 +6,16 @@
 ![Front page of the website](./images/project%20pic.png)
 
 # Table of Contents
-1. [Introduction](#Iintroduction j)
+1. [Introduction](#Iintroduction)
 2. [Description](#Description)
-3. [BDD](#Behavior Driven Development)
+3. [BDD](#BehaviorDrivenDevelopment)
 4. [features](#Featuress)
 5. [Requirements](#Requirements)
 6. [Installationprocess](#Installation)
 7. [livelink](#Livelink)
-8. [Technologyused](#Technology Used)
+8. [Technologyused](#TechnologyUsed)
 9. [Licence](#Licence)
-10. [Authorsinfo](#Authors Info)
+10. [Authorsinfo](#AuthorsInfo)
 
 
 ## Description
