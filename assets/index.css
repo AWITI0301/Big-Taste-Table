@@ -257,9 +257,16 @@
     width: 100%;
 }
 
-
-
-
+#bs{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: black;
+}
+.blg{
+    color: red;
+    text-align: center;
+}
 
 
 /* Media Queries */

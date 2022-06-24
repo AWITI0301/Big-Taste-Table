@@ -3,7 +3,7 @@
 
 # About The Project
 
-![Front page of the website](./images/project%20pic.png)
+![Front page of the website](./assets/images/project%20pic.png)
 
 # Table of Contents
 1. [Introduction](#Iintroduction)
